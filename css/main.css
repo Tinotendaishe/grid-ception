@@ -18,5 +18,20 @@ html {
 }
 
 body {
-  font-family: sans-serif;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.grid {
+  margin: 0;
+  padding: 0;
+}
+
+.unit {
+  margin: 0;
+  padding: 0;
 }
