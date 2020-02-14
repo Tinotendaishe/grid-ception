@@ -6,11 +6,11 @@
 
 html {
   box-sizing: border-box;
-
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -18,20 +18,10 @@ html {
 }
 
 body {
-  font-family: "Fira Sans", sans-serif;
+  margin: 0;
 }
 
 .img-flex {
   display: block;
   width: 100%;
-}
-
-.grid {
-  margin: 0;
-  padding: 0;
-}
-
-.unit {
-  margin: 0;
-  padding: 0;
 }
